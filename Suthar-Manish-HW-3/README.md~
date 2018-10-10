@@ -1,0 +1,2 @@
+to build:   cd src/ ; javac button/*.java light_bulbs/*.java driver/*.java
+to_execute: java driver.Mainq
