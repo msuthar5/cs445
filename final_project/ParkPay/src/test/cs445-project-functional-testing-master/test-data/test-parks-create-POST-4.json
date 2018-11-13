@@ -1,0 +1,18 @@
+{
+	"location_info": {
+		"name": "Castle Rock",
+		"region": "Northwestern Illinois",
+		"address": "1365 W. Castle Rd, Oregon IL 61061",
+		"phone": "815-732-7329",
+		"web": "https://www.dnr.illinois.gov/Parks/Pages/CastleRock.aspx",
+		"geo": {
+			"lat": 41.978,
+			"lng": -89.364
+		}
+	},
+	"payment_info": {
+		"motorcycle": [2, 3],
+		"car": [4.50, 7],
+		"rv": [7, 9.25]
+	}
+}

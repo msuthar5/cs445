@@ -1,0 +1,18 @@
+{
+  "pid": "<pid3>",
+  "vehicle": {
+    "state": "CA",
+    "plate": "60MPG",
+    "type": "rv"
+  },
+  "visitor": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "payment_info": {
+      "card": "373456789045678",
+      "name_on_card": "Jane Smith",
+      "expiration_date": "05/23",
+      "zip": 94102
+    }
+  }
+}

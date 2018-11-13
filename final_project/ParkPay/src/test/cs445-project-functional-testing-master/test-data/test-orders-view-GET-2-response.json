@@ -1,0 +1,22 @@
+[{
+		"oid": "<oid1>",
+		"pid": "<pid3>",
+		"date": "<date-oid1>",
+		"type": "car",
+		"amount": 4.50
+	},
+	{
+		"oid": "<oid2>",
+		"pid": "<pid3>",
+		"date": "<date-oid3>",
+		"type": "rv",
+		"amount": 9.25
+	},
+	{
+		"oid": "<oid3>",
+		"pid": "<pid1>",
+		"date": "<date-oid3>",
+		"type": "rv",
+		"amount": 13.00
+	}
+]

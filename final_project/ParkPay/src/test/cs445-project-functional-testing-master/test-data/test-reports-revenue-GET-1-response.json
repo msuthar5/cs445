@@ -1,0 +1,21 @@
+{
+	"rid": "<rid2>",
+	"name": "Revenue report",
+	"start_date": "",
+	"end_date": "",
+	"total_orders": 3,
+	"total_revenue": 26.75,
+	"detail_by_park": [{
+			"pid": "<pid1>",
+			"name": "Apple River Canyon",
+			"orders": 1,
+			"revenue": 13.00
+		},
+		{
+			"pid": "<pid3>",
+			"name": "Castle Rock",
+			"orders": 2,
+			"revenue": 13.75
+		}
+	]
+}

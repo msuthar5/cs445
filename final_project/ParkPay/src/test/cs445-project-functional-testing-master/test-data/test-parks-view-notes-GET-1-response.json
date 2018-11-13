@@ -1,0 +1,14 @@
+[{
+	"pid": "<pid3>",
+	"notes": [{
+			"nid": "<nid1>",
+			"date": "<date-nid1>",
+			"title": "No campground"
+		},
+		{
+			"nid": "<nid2>",
+			"date": "<date-nid2>",
+			"title": "Great fishing"
+		}
+	]
+}]

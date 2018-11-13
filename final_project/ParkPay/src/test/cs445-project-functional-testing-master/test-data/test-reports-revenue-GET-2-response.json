@@ -1,0 +1,7 @@
+{
+  "type": "http://cs.iit.edu/~virgil/cs445/project/api/problems/data-validation",
+  "title": "Your request data didn't pass validation",
+  "detail": "Wrong date format",
+  "status": 400,
+  "instance": "/reports/<rid2>"
+}

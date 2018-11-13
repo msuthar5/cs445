@@ -1,0 +1,18 @@
+{
+	"vid": "<vid1>",
+	"visitor": {
+		"name": "John Doe",
+		"email": "john.doe@example.com"
+	},
+	"orders": [{
+		"oid": "<oid1>",
+		"pid": "<pid3>",
+		"date": "<date-oid1>"
+	}],
+	"notes": [{
+		"nid": "<nid1>",
+		"pid": "<pid3>",
+		"date": "<date-nid1>",
+		"title": "No campground"
+	}]
+}

@@ -1,0 +1,29 @@
+[{
+    "pid": "<pid1>",
+    "location_info": {
+      "name": "Apple River Canyon",
+      "region": "Northwestern Illinois",
+      "address": "8763 E. Canyon Rd, Apple River, IL 61001",
+      "phone": "815-745-3302",
+      "web": "https://www.dnr.illinois.gov/Parks/Pages/AppleRiverCanyon.aspx",
+      "geo": {
+        "lat": 42.448,
+        "lng": -90.043
+      }
+    }
+  },
+  {
+    "pid": "<pid3>",
+    "location_info": {
+      "name": "Castle Rock",
+      "region": "Northwestern Illinois",
+      "address": "1365 W. Castle Rd, Oregon IL 61061",
+      "phone": "815-732-7329",
+      "web": "https://www.dnr.illinois.gov/Parks/Pages/CastleRock.aspx",
+      "geo": {
+        "lat": 41.978,
+        "lng": -89.364
+      }
+    }
+  }
+]

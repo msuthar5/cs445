@@ -1,0 +1,7 @@
+{
+  "type": "http://cs.iit.edu/~virgil/cs445/project/api/problems/data-validation",
+  "title": "Your request data didn't pass validation",
+  "detail": "Geo information is required but missing in your request",
+  "status": 400,
+  "instance": "/parks"
+}

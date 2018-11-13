@@ -1,0 +1,13 @@
+{
+  "location_info": {
+    "name": "Apple River Canyon",
+    "address": "8763 E. Canyon Rd, Apple River, IL 61001",
+    "phone": "815-745-3302",
+    "web": "https://www.dnr.illinois.gov/Parks/Pages/AppleRiverCanyon.aspx"
+  },
+  "payment_info": {
+    "motorcycle": [5, 8],
+    "car": [7, 10],
+    "rv": [10,13]
+  }
+}

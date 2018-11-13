@@ -1,0 +1,18 @@
+{
+	"rid": "<rid1>",
+	"name": "Admissions report",
+	"start_date": "",
+	"end_date": "",
+	"total_admissions": 3,
+	"detail_by_park": [{
+			"pid": "<pid1>",
+			"name": "Apple River Canyon",
+			"admissions": 1
+		},
+		{
+			"pid": "<pid3>",
+			"name": "Castle Rock",
+			"admissions": 2
+		}
+	]
+}

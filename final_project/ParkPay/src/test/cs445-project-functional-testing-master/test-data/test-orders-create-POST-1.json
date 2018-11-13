@@ -1,0 +1,18 @@
+{
+  "pid": "<pid3>",
+  "vehicle": {
+    "state": "IL",
+    "plate": "GOCUBS",
+    "type": "car"
+  },
+  "visitor": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "payment_info": {
+      "card": "4388567890987654",
+      "name_on_card": "John Doe",
+      "expiration_date": "12/19",
+      "zip": 60616
+    }
+  }
+}

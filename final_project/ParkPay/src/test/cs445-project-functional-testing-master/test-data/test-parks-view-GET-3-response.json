@@ -1,0 +1,14 @@
+[{
+	"pid": "<pid2>",
+	"location_info": {
+		"name": "Mermet Lake",
+		"region": "Southern Illinois",
+		"address": "1812 Grinnell Road, Belknap, IL 62908",
+		"phone": "618-524-5577",
+		"web": "https://www.dnr.illinois.gov/Parks/Pages/MermetLake.aspx",
+		"geo": {
+			"lat": 37.275,
+			"lng": -88.849
+		}
+	}
+}]

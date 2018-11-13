@@ -1,0 +1,26 @@
+{
+  "oid": "<oid3>",
+  "pid": "<pid1>",
+  "amount": 13.00,
+  "vid": "<vid2>",
+  "date": "<date-oid3>",
+  "vehicle": {
+    "state": "CA",
+    "plate": "60MPG",
+    "type": "rv"
+  },
+  "visitor": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "payment_info": {
+      "card": "xxxxxxxxxxx5678",
+      "name_on_card": "Jane Smith",
+      "expiration_date": "05/23",
+      "zip": 94102
+    }
+  },
+  "payment_processing": {
+    "card_transaction_id": "123-4567-89",
+    "date_and_time": "<date-oid3>"
+  }
+}
