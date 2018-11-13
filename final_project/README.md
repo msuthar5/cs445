@@ -1,3 +1,7 @@
+NOTE: SERVICE REQUIRES PIP3 TO BE INSTALLED
+
+IF NOT INSTALLED, CAN BE INSTALLED WITH: sudo apt-get install python3-pip
+
 Directory Structure:
   ** path: /Parpkay/file_from_below **
     - requirements.txt - the required dependencies for the service
