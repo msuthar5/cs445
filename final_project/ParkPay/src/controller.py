@@ -107,7 +107,7 @@ def get_admissions_or_revenue_range(bounds, type):
 
             for id, order in allOrders.items():
                 if id != "id":
-                    if order.park_id == k:
+                    if int(order.park_id) == int(k):
                         date = order.date.replace("-","")
                         if int(date) in range(int(start_date),int(end_date)):
                             if type == REVENUE:
